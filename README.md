@@ -1,3 +1,47 @@
+# NousoNET
+
+> **Layer:** Architecture  
+> **Status:** Working Spec  
+> **Audience:** Builders, spatial computing designers, researchers, experience architects  
+> **Related:** `nousos`, `nous-object-id`, `hopefulvision-website`, `truthmirror`
+
+## What this repo is
+NousoNET is the network, interaction, and spatial experience layer of the HopefulVision ecosystem. It explores how consciousness-first technology can operate through place, presence, augmented reality, and embodied participation in the physical world.
+
+Where NousOS defines the core operating logic of the ecosystem, NousoNET explores how that logic becomes lived, networked, and spatially experienced.
+
+## Why it exists
+Modern digital systems isolate people from their bodies, communities, and environments. NousoNET exists to reverse that pattern by designing technology that rewards embodiment, real-world exploration, place-based intelligence, and human connection.
+
+This repo is where HopefulVision’s architecture begins to move from abstract coordination into field experience.
+
+## What NousoNET is not
+NousoNET is **not**:
+- the core governance kernel of the ecosystem, which belongs to `nousos`
+- the identity and archetype framework for persistent entities, which belongs to `nous-object-id`
+- just a generic AR concept repo
+
+NousoNET is the **networked, spatial, and experiential layer**.
+
+## How it fits the ecosystem
+This repo connects most directly to:
+- `nousos`, which provides the governing logic and consent architecture
+- `nous-object-id`, which enables persistent identity and embodied presence across contexts
+- `truthmirror`, which may help evaluate relational and ethical patterns
+- `hopefulvision-website`, which may eventually present public-facing expressions of these ideas
+
+## Start here
+- `README.md`
+- `NousoNET_Master_Index.md`
+- `FieldWeaver_Protocol.md`
+- `NousoNET_Augmented_Reality_Architecture.md`
+
+## Current maturity
+- expansive concept
+- working architecture
+- early implementation framing
+
+
 # NousoNET: The Sacred Technology Reconnection Platform
 ## Augmented Reality That Gets Humanity Back Outside
 
